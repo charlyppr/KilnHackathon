@@ -20,10 +20,9 @@ KilnHackathon/
 ├── src/
 │   ├── back/
 │   │   └── api.py
-│   │   
-│   ├── front/
-│   │   └── (fichiers front-end HTML, CSS)
-├── README.md
+│   └── front/
+│       └── (fichiers front-end HTML, CSS)
+└── README.md
 ```
 
 - **src/back/** : Contient les scripts backend, notamment le fichier `test.py` pour tester l'API.
